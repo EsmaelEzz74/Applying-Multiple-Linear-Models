@@ -1,5 +1,5 @@
-# Explore-Linear-models-on-weather-data-set
-Comparing Linear &amp; Multilinear &amp; Polynomial Regression 
+# Unveiling-the-Power-of-Linear-Models
+A Comparative Study of Linear, Multilinear, and Polynomial Regression on Weather Data 
 - Browsing the weather data set it contains 12 columns with different data types and I checked for duplicate rows and it turned out that there were 24 duplicate rows So, I removed them and for nulls there are over 500 rows with nulls in the Precip Type column but we won't be using them so I'll leave them
  I have selected the most correlated columns that affected the apparent temperature that I know from the Seaborn heatmap. So I create a new dataframe that only has five columns
 - <img src = "https://user-images.githubusercontent.com/85246622/207987160-bd43c7b9-e6b8-40d1-a2fb-fad1edd179b0.png" width="400" height="400"/>
